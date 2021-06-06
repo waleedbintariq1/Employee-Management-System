@@ -1,5 +1,8 @@
 # Employee-Management-System
-Developed Employee Management System for an educated business man where they can manage their employees by assigning them to tasks that they receive from their clients. The project is based on Software Development Life Cycle. Adobe XD software is used for developing the design of the system while keeping human-computer interaction concepts in mind. 
+Developed Employee Management System for an educated business man where they can manage their employees by assigning them to tasks that they receive from their clients. The project is based on Software Development Life Cycle. Adobe XD software is used for developing the design of the system while keeping human-computer interaction concepts in mind.
+
+# Requirements
+Need Adobe XD software to run .xd file.
 
 # Procedure
 1. Conducted user profling for our user who is an educated business man
